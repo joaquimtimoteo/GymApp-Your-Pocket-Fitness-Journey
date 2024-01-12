@@ -1,4 +1,4 @@
-# helloworld
+# GymApp: Your Pocket Fitness Journey
 
 A new Flutter project.
 
